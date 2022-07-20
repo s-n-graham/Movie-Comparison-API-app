@@ -1,4 +1,4 @@
-# Movie-Comparison-API-app-
+# Movie-Comparison-API-app
 This is my first 'big' JavaScript project that I completed from an online bootcamp hosted by the amazing Colt Steele and Stephen Grider.
 Concepts of professional development such as application design patterns and planning were challenged and practiced here.
 
